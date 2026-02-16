@@ -1,0 +1,122 @@
+ Troubleshooting is defined as:
+A. Installing new software
+B. Replacing damaged hardware
+C. A systematic process of identifying and resolving faults
+D. Formatting a computer
+Answer: C
+2. 
+A. Observing symptoms
+B. Identifying root cause
+C. Ignoring minor issues
+D. Testing solutions
+Answer: C
+3. One major importance of troubleshooting is to:
+A. Increase system cost
+B. Minimize downtime
+C. Replace all hardware
+D. Delete files
+Answer: B
+4. Preventing minor issues from escalating helps to:
+A. Cause major failure
+B. Improve system security
+C. Avoid major failure
+D. Slow down the system
+Answer: C
+5. Damaged hard drives and faulty RAM are examples of:
+A. Software fault
+B. Network fault
+C. Hardware fault
+D. User error
+Answer: C
+ During installation, program files are primarily copied to:
+A. RAM
+B. CPU cache
+C. Secondary storage (Hard drive/SSD)
+D. BIOS
+Ans:C
+2. Registering necessary system files ensures that:
+A. Files are compressed
+B. The operating system can locate and access shared components
+C. The software runs without power supply
+D. The monitor displays faster
+And:B
+3. A fresh installation differs from an upgrade installation because:
+A. It requires internet
+B. It installs over an existing version
+C. It is the first installation with no previous version present
+D. It always deletes the operating system
+Ans C
+4. Which installation type allows the user to choose specific features to install?
+A. Fresh installation
+B. Automatic installation
+C. Custom installation
+D. Silent installation
+Ans C
+5. Creating desktop shortcuts during installation is mainly for:
+A. Reducing file size
+B. Faster CPU processing
+C. Quick access to the program
+D. Increasing RAM
+Ans C
+[16/02, 12:41 pm] Efeh 🤍: 1. Preventive maintenance is mainly carried out to:
+A. Repair damaged components
+B. Replace all hardware yearly
+C. Prevent system failure before it occurs
+D. Increase system complexity
+Answer: C
+2. Operational continuity refers to:
+A. Shutting down systems regularly
+B. The ability of a system to remain functional and available
+C. Installing new hardware weekly
+D. Reducing staff workload
+Answer: B
+3. One major benefit of preventive maintenance is:
+A. Increased downtime
+B. Higher operational cost
+C. Early detection of faults
+D. Frequent system crashes
+Answer: C
+4. Updating operating systems helps to:
+A. Slow down performance
+B. Remove hardware
+C. Improve security and stability
+D. Delete user data
+Answer: C
+5. System monitoring logs are useful for:
+A. Deleting files
+B. Identifying potential issues early
+C. Formatting the system
+D. Increasing virus attacks
+Answer: B
+
+
+1. Preventive maintenance is mainly carried out to:
+A. Repair damaged systems
+B. Replace all hardware yearly
+C. Prevent system failure before it occurs
+D. Increase software piracy
+Answer: C
+2. Scheduled software updates help to:
+A. Slow down the computer
+B. Fix security vulnerabilities and bugs
+C. Delete user files
+D. Remove antivirus
+Answer: B
+3. Dust accumulation inside a system unit can cause:
+A. Faster processing
+B. Increased airflow
+C. Overheating and hardware failure
+D. Better cooling
+Answer: C
+4. Routine diagnostic scans are used to:
+A. Format the system
+B. Detect errors and system issues
+C. Install games
+D. Remove hardware
+Answer: B
+5. Maintenance logs are important because they:
+A. Replace antivirus
+B. Track historical maintenance activities
+C. Delete system errors
+D. Increase RAM
+Answer: B
