@@ -4,7 +4,7 @@ body {
 	align-items: center;
 	min-height: 100vh;
 	overflow-y: auto;
-	background-image: url("/pur.jpeg");
+	background-image: url("pur.jpeg");
 	background-size: cover;
 	background-attachment: fixed;
 }
