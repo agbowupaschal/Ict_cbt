@@ -595,15 +595,27 @@ document.getElementById("quizForm").addEventListener("submit", function (e) {
 	this.style.display = "none";
 });
 // Timer
-let timeLeft = 320;
-const timer = setInterval(() => {
-	timeLeft--;
-	document.getElementById("time").innerText = timeLeft;
+let timeLeft = 320; // 320 seconds = 5 minutes 20 seconds
+const timeDisplay = document.getElementById("time");
 
-	if (timeLeft <= 0) {
-		clearInterval(timer);
-		document.getElementById("quizForm").dispatchEvent(new Event("submit"));
-	}
+// Show initial time immediately
+const formatTime = (seconds) => {
+  const minutes = Math.floor(seconds / 60);
+  const secs = seconds % 60;
+  return `${minutes}:${secs.toString().padStart(2, '0')}`;
+};
+
+timeDisplay.innerText = formatTime(timeLeft);
+
+const timer = setInterval(() => {
+  timeLeft--;
+  timeDisplay.innerText = formatTime(timeLeft);
+
+  if (timeLeft <= 0) {
+    clearInterval(timer);
+    const quizForm = document.getElementById("quizForm");
+    if (quizForm) quizForm.dispatchEvent(new Event("submit"));
+  }
 }, 1000);
 // Load questions on page load
 loadQuestions();
