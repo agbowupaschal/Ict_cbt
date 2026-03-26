@@ -595,7 +595,7 @@ document.getElementById("quizForm").addEventListener("submit", function (e) {
 	this.style.display = "none";
 });
 // Timer
-let timeLeft = 200;
+let timeLeft = 320;
 const timer = setInterval(() => {
 	timeLeft--;
 	document.getElementById("time").innerText = timeLeft;
