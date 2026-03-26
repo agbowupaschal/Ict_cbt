@@ -239,11 +239,11 @@ const questions = [
 		],
 		answer: 0
 	},
-	{
-		question: "Software reinstallation is effective when",
-		options: ["I, II, III, IV", "II, III, IV", "I, II, IV", "I, III, IV"],
-		answer: 2
-	},
+{
+  question: "Software reinstallation is effective when: (I) When application files are damaged, (II) Registry entries are corrupted, (III) Recently installed drivers, (IV) Configuration files are improperly modified",
+  options: ["I, II, III, IV", "II, III, IV", "I, II, IV", "I, III, IV"],
+  answer: 2
+},
 	{
 		question:
 			"Which of these upgrades enhance gaming or design performance",
