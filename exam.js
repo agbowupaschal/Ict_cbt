@@ -595,7 +595,7 @@ document.getElementById("quizForm").addEventListener("submit", function (e) {
 	this.style.display = "none";
 });
 // Timer
-let timeLeft = 320; // 320 seconds = 5 minutes 20 seconds
+let timeLeft = 900; // 320 seconds = 5 minutes 20 seconds
 const timeDisplay = document.getElementById("time");
 
 // Show initial time immediately
